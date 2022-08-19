@@ -195,9 +195,6 @@ footer li + li {
     width: calc((100% - 32px) / 3);
   }
 
-  .products p {
-    width: 200px;
-  }
 }
 
 /* large screen */
@@ -211,6 +208,10 @@ footer li + li {
 
   header form {
     display: block;
+  }
+
+  .products p {
+    width: 200px;
   }
 }
 
